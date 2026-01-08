@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: order-service
+    name: order-service1
 
   datasource:
     url: jdbc:mysql://localhost:3306/microservices1
